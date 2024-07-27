@@ -32,7 +32,7 @@ const NavBar = () => {
                         onClick={handleScroll}
                         aria-label="Scroll to Home Section"
                     >
-                        <h4 className="py-2 px-2 text-[12px] sm:px-4 sm:text-[14px] md:py-1 md:px-4">Inicio</h4>
+                        <h4 className="py-2 px-2 text-[12px] sm:px-4 sm:text-[14px] md:py-1 md:px-4">INICIO</h4>
                     </Link>
 
                     <Link

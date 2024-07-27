@@ -73,7 +73,7 @@ const Tools = () => {
                         </div>
                     </div>
                     <div className="mb-10 flex w-[100%] flex-col gap-4 text-[18px] font-bold leading-relaxed tracking-wide text-[#e4ded7] md:mb-16 md:gap-6 md:text-[40px] md:leading-relaxed lg:mb-16 lg:w-[50%]">
-                        <AnimatedBody delay={0.4} text="Other" />
+                        <AnimatedBody delay={0.4} text="Otros" />
                         <div>
                             <AnimatedTools className="grid grid-cols-5 gap-4" delay={0.4} stepSize={0.1} iconSize={50}>
                                 <SiGithub size={50}/>
