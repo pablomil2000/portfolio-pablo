@@ -65,7 +65,7 @@ const Contact = () => {
                             />
                         </Link>
                         <Link
-                            href="www.linkedin.com/in/pablo-martin-lopez-17693717a"
+                            href="https://www.linkedin.com/in/pablo-martin-lopez-17693717a"
                             target="_blank"
                             aria-label="View linkedin Profile"
                         >
